@@ -5,6 +5,8 @@ import App from "./App";
 import reportWebVitals from "./reportWebVitals";
 import store from "./store";
 import "bootstrap/dist/css/bootstrap.min.css"
+import "./style.css";
+import "flag-icons/css/flag-icons.min.css";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
